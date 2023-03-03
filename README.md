@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image.png" alt="Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀">
+  <img src="./github-header-image.png" alt="Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀" width="100%">
 </p>
 
 ## <p align="center">Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
