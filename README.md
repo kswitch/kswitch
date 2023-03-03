@@ -66,12 +66,12 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" >
         <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
-    </td>
+    </td> -->
     <!-- <td align="center" width="96">
       <a href="https://golang.org" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="GoLang" />
@@ -124,3 +124,20 @@
     </td>
   </tr> -->
 </table>
+
+<h2 align="left">A Little More</h2>
+- 🌱 I’m currently learning **React, TypeScript, NodeJS, ExpressJS**
+
+- 💬 Ask me about **HTML, CSS, JavaScript and React**
+
+
+## My Stats
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kswitch&show_icons=true&locale=en&layout=compact" alt="kswitch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kswitch&show_icons=true&locale=en" alt="kswitch" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kswitch&" alt="kswitch" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kswitch&label=Profile%20views&color=0e75b6&style=flat" alt="kswitch" /> </p>
