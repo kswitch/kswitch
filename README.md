@@ -23,25 +23,6 @@
 
 <table>
   <tr>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td> -->
-    <!--
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td> -->
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
@@ -67,10 +48,23 @@
       <br>React
     </td>
     <!-- <td align="center" width="96">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" >
         <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
+    </td> -->
+    <!--
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td> -->
     <!-- <td align="center" width="96">
       <a href="https://golang.org" target="_blank" rel="noreferrer" >
@@ -80,15 +74,9 @@
     </td> -->
     <!-- <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Bootstrap
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
+      <br>Python
     </td> -->
   </tr>
   <!-- <tr>
@@ -127,7 +115,7 @@
 
 <br />
 
-<h2 align="left">A Little More</h2>
+# 💫 A Little More About Me:
 
 - 🌱 I’m currently learning **React, TypeScript, NodeJS, ExpressJS**
 
