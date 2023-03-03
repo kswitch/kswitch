@@ -2,7 +2,7 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀">
 </p>
 
-## <p align="center">Hi, I'm Kingsley. I'm a 🚀 FrontEnd Developer from Nigeria 🚀</p>
+## <p align="center">Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
 
 
 ## :link: Connect with Me
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -38,34 +38,46 @@
     <!--
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td> -->
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML 5 Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
+    <td align="center" width="96">
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" >
+        <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <!-- <td align="center" width="96">
+      <a href="https://golang.org" target="_blank" rel="noreferrer" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="GoLang" />
+      </a>
+      <br>GoLang
+    </td> -->
     <!-- <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
