@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀">
-  <br />Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀
+  <br /><span font-size="2rem">Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀</span>
 </p>
 
 ## :link: Connect with Me
