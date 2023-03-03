@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀">
+  <br />Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀
 </p>
 
-## :link: Links
+## :link: Connect with Me
 
 <p align="center">
   <a href="mailto:chidiadi.kingsley@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
