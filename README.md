@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀">
-  <br /><span font-size="4rem">Hi, I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀</span>
 </p>
+
+## <p align="center">I'm Kingsley 👋 I'm a 🚀 FrontEnd Developer from Nigeria🚀 </p>
+
 
 ## :link: Connect with Me
 
