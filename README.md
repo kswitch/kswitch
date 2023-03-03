@@ -2,7 +2,7 @@
   <img src="./github-header-image.png" alt="Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀" width="100%">
 </p>
 
-## <p align="center"><img src="./wave.gif" alt="Wave Gif" width="20px"/> Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
+## <p align="center"><img src="./wave.gif" alt="Wave Gif" width="20"/> Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
 
 
 ## :link: Connect with Me
