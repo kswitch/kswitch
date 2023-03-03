@@ -140,9 +140,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kswitch&label=Profile%20views&color=0e75b6&style=flat" alt="kswitch" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kswitch&show_icons=true&locale=en" alt="kswitch" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kswitch&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="kswitch" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kswitch&show_icons=true&locale=en&layout=compact" alt="kswitch" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kswitch&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="kswitch" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kswitch&" alt="kswitch" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kswitch&theme=react&hide_border=true" alt="kswitch" /></p>
