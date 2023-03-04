@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="./assets/css.png" width="48" height="48" alt="CSS" />
+        <img src="./assets/css3.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
