@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./github-header-image.png" alt="Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀" width="100%">
+  <img src="./assets/github-header-image.png" alt="Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀" width="100%">
 </p>
 
-## <p align="center"><img src="./wave.gif" alt="Wave Gif" width="30" align="center"/> Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
+## <p align="center"><img src="./assets/wave.gif" alt="Wave Gif" width="30" align="center"/> Hi, I'm Kingsley. I'm a 🚀 Passionate FrontEnd Developer from Nigeria 🚀</p>
 
 
 ## :link: Connect with Me
@@ -25,25 +25,25 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="./html.gif" width="48" height="48" alt="HTML 5" />
+        <img src="./assets/html.gif" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="./javascript.gif" width="48" height="48" alt="JavaScript" />
+        <img src="./assets/javascript.gif" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="./assets/css.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
-        <img src="./react.gif" width="48" height="48" alt="React" />
+        <img src="./assets/react.gif" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
