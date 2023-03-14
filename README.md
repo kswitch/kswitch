@@ -118,7 +118,7 @@
 
 # 💫 A Little More About Me:
 
-- 🌱 I’m currently learning **React, TypeScript, NodeJS, ExpressJS**
+- 🌱 I’m currently learning **TypeScript, NodeJS, ExpressJS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React**
 
