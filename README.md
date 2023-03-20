@@ -28,7 +28,7 @@
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="./assets/html.gif" width="48" height="48" alt="HTML 5" />
       </a>
-      <br>HTML 4/5
+      <br>HTML
     </td>    
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
