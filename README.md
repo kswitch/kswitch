@@ -23,36 +23,31 @@
 > Tools, languages, and other things that I like to work with.
 
 <table>
-  <tr>
-    
+  <tr>    
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="./assets/html.gif" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="./assets/javascript.gif" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="./assets/css3.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
-    
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
         <img src="./assets/react.gif" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    
+    </td> 
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
