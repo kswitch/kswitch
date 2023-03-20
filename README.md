@@ -24,29 +24,40 @@
 
 <table>
   <tr>
+    
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="./assets/html.gif" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML
     </td>
+    
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="./assets/javascript.gif" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
+    
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="./assets/css3.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
+    
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
         <img src="./assets/react.gif" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     <!-- <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -59,13 +70,6 @@
         <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
-    </td> -->
-    <!--
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td> -->
     <!-- <td align="center" width="96">
       <a href="https://golang.org" target="_blank" rel="noreferrer" >
@@ -118,7 +122,7 @@
 
 # 💫 A Little More About Me:
 
-- 🌱 I’m currently learning **TypeScript, NodeJS, ExpressJS**
+- 🌱 I’m currently learning ** NodeJS, ExpressJS **
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React**
 
