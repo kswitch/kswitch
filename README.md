@@ -54,12 +54,12 @@
       </a>
       <br>TypeScript
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td> -->
+    </td>
     <!-- <td align="center" width="96">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" >
         <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
